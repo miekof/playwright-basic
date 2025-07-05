@@ -41,4 +41,4 @@ See `SuccessfulLoginTest.java` for a sample login test using Playwright.
 
 ## License
 
-MIT
+Refer [LISENCE](LISENCE) file
